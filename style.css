@@ -23,3 +23,8 @@ h2 {
 .red_text {
     color: rgb(255, 0, 0);
 }
+
+.recipe_link {
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
